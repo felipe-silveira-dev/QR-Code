@@ -4,7 +4,9 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
+Challenge completed.
+See result
+https://felipe-silveira-dev.github.io/QR-Code/
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
